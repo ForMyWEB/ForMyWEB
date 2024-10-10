@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a flusk project with tailwind**
+ 🔭 I’m currently working on **a flask project with tailwind**
  
- 🌱 I’m currently learning **TailwindCSS, Flusk, React**
+ 🌱 I’m currently learning **TailwindCSS, Flask, React**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
