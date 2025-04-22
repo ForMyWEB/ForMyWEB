@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AWS**
+ 🔭 I’m currently working on **Symfony blog project**
  
- 🌱 I’m currently learning **TailwindCSS, JS, React**
+ 🌱 I’m currently learning **PHP, TWIG, Symfony**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
